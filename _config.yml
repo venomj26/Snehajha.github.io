@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+mj# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -12,9 +12,9 @@ title                    : "Sneha Jha  / Bio"
 title_separator          : "-"
 name                     : &name "Sneha Jha"
 description              : &description "personal description"
-url                      : https://venomj26.github.io/Snehajha.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://venomj26.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "venomj26/Snehajha.github.io"
+repository               : "venomj26/venomj26.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
